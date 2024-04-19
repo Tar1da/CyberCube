@@ -1,2 +1,2 @@
 #Проект CyberCube
-- [Platformer](Platformer)
+- [CyberCube](CyberCube)
